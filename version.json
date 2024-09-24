@@ -1,8 +1,8 @@
 {
-  "latestAndroidVersion": "0.1.0",
-  "stableAndroidVersion": "0.1.0",
+  "latestAndroidVersion": "0.1.1",
+  "stableAndroidVersion": "0.1.1",
   "latestIosVersion": "0.1.1",
-  "stableIosVersion": "0.1.0",
+  "stableIosVersion": "0.1.1",
   "iOSLink": "",
   "androidLink": ""
 }
